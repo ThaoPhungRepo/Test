@@ -1,0 +1,1 @@
+print("Xin chao den voi chuong trinh dau tien")
